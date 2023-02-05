@@ -1,0 +1,5 @@
+#!bin/bash
+sudo pacman -S xorg xorg-server -xorg-xinit xdg-utils xdg-user-dirs i3-gaps i3status rofi xfce4-terminal firefox nitrogen picom 
+echo "Adonis"
+echo "y"
+reboot
